@@ -2,7 +2,7 @@
 
 Generate a populated “Fiche de contrôle” Excel from OCR exports.
 
-**Live app:** https://<your-app>.streamlit.app
+**Live app:** https://virgilelv-apr-excelformatapp-apr-gnan4k.streamlit.app/
 
 ## Run locally
 ```bash
